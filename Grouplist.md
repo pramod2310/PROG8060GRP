@@ -7,3 +7,8 @@
 ▪ I like to be called: Gagan
 ▪ My GitHub username is: gsandhu6261
 ▪ I haven't used GitHub before.
+
+▪ My name is: Sibtain Jagani
+▪ I like to be called: Sibtain
+▪ My GitHub username is: sibtainjagani
+▪ I have used GitHub before.
