@@ -6,4 +6,4 @@
 ▪ My name is: Gagan sandhu
 ▪ I like to be called: Gagan
 ▪ My GitHub username is: gsandhu6261
-▪ I haven't (have/have not) used GitHub before.
+▪ I haven't used GitHub before.
