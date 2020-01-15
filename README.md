@@ -1,2 +1,2 @@
 # PROG8060GRP
-group work demp repository
+group work demo repository
